@@ -1,10 +1,10 @@
-# > wake_up.neo()
+# > greetings()
 
 👋 I’m **Leslie**  
 **Full-Stack AI Engineer · Visual Systems Architect · Vibe Coder**
 
 I design and build systems that live at the intersection of **code, aesthetics, and intelligence**.  
-Not just software that works — software that *feels intentional*.
+Not just software that works — software that *feels intentional.*
 
 ---
 
@@ -27,13 +27,17 @@ I build tools, interfaces, and systems that endure.
 ```js
 const developer = {
   role: "Full Stack AI Engineer",
-  mindset: ["systems thinking", "meraki", "clarity over noise"],
+  mindset: ["systems thinking", "meraki", "clarity"],
   status: "online",
-  focus: [
-    "AI-powered web apps",
+  skills: [
+    "web apps",
     "API-driven systems",
-    "automation & workflows",
-    "aesthetic engineering"
+    "AI automation & workflows",
+    "aesthetic engineering",
+  ],
+  learning: [
+    "blockchain"
+    "web 3.0"
   ]
 };
 
@@ -52,9 +56,9 @@ const developer = {
 - Node.js
 - API design & integration
 - Auth, data flows, automation
-- AI / Systems
 
-**AI integration (LLMs, agents, workflows)**
+**AI / Systems**
+- AI integration (LLMs, agents, workflows)
 - Prompt systems & orchestration
 - Rapid prototyping → iteration
 
@@ -76,36 +80,26 @@ const developer = {
 
 ---
 
-## > featured_work
+## > featured_work   
 
-**🚧 Projects in active development.**
-This profile reflects live systems, not museum pieces.
+🚧   ![Status](https://img.shields.io/badge/status-building-informational)
 
-**Pinned repositories show:*
-- End-to-end applications
-- AI integrations
-- Experimental interfaces
-- Practical tooling
+This profile reflects live systems, or *museum pieces.*
+
+Code base for Projects that are under [Troytech](https://troytech.org/FAQs) organization's protection policy is not publicly available: 
+- [SOLV (AI-assisted E-commerce)](https://solvtechstore.troytech.org) 
+- Nairobi Creators Hub 
+- Synth-Wave Gen 
 
 ---
 
 ## > connect
 
-- 🌐 Website: https://leslie.troytech.org
-- 📧 Email: lsltry404@gmail.com
+- 🌐 Website: [leslie.troytech.org](https://leslie.troytech.org)
+- 📧 Email: [lsltry404@gmail.com](mailto:lsltry404@gmail.com)
 - 💬 Open to collaboration on meaningful builds
 
-<!--
-**troycodes1/troycodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+*Fun Fact*: I don’t fear the matrix — I fear undocumented systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

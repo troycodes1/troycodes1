@@ -1,10 +1,10 @@
 # > greetings()
 
 👋 I’m **Leslie**  
-**Full-Stack AI Engineer · Visual Systems Architect · Vibe Coder**
+**Full-Stack AI Engineer · Visual Systems Architect · Motion Designer**
 
 I design and build systems that live at the intersection of **code, aesthetics, and intelligence**.  
-Not just software that works — software that *feels intentional.*
+Not just software that works but software that *feels intentional.*
 
 ---
 
@@ -15,7 +15,7 @@ I operate across the full stack, translating abstract ideas into production-read
 My work focuses on:
 - Rapid prototyping → real deployment
 - Human-centered interfaces powered by AI
-- Clean architecture with expressive visuals
+- Clean architecture with expressive visuals and motion design
 
 I don’t chase trends.  
 I build tools, interfaces, and systems that endure.
@@ -27,17 +27,19 @@ I build tools, interfaces, and systems that endure.
 ```js
 const developer = {
   role: "Full Stack AI Engineer",
-  mindset: ["systems thinking", "meraki", "clarity"],
+  mindset: ["systems thinking", "meraki", "clarity", "P2P"],
   status: "online",
   skills: [
     "web apps",
+    "mobile apps",
     "API-driven systems",
     "AI automation & workflows",
     "aesthetic engineering",
   ],
   learning: [
-    "blockchain"
-    "web 3.0"
+    "blockchain",
+    "web 3.0",
+    "peer-to-peer (P2P) applications"
   ]
 };
 
@@ -49,11 +51,13 @@ const developer = {
 
 **Frontend**
 - React, Next.js
+- Flutter
 - Tailwind / CSS architecture
-- Motion & interaction design
+- Motion & interaction design using Rive
 
 **Backend**
 - Node.js
+- Firebase
 - API design & integration
 - Auth, data flows, automation
 
@@ -84,10 +88,11 @@ const developer = {
 
 🚧   ![Status](https://img.shields.io/badge/status-building-informational)
 
-This profile reflects live systems, or *museum pieces.*
+This profile reflects live systems, and/or *museum pieces.*
 
 Code base for Projects that are under [Troytech](https://troytech.org/FAQs) organization's protection policy is not publicly available: 
-- [SOLV (AI-assisted E-commerce)](https://solvtechstore.troytech.org) 
+- [SOLV (AI-assisted E-commerce)](https://solvtechstore.troytech.org)
+- Birdie-Doodle (News Application) - Download from **Google Play Store**
 - Nairobi Creators Hub 
 - Synth-Wave Gen 
 

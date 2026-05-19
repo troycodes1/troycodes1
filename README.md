@@ -37,7 +37,7 @@ const developer = {
     "aesthetic engineering",
   ],
   learning: [
-    "blockchain",
+    "blockchain and crypto",
     "web 3.0",
     "peer-to-peer (P2P) applications"
   ]
@@ -52,8 +52,9 @@ const developer = {
 **Frontend**
 - React, Next.js
 - Flutter
+- React Native + Expo
 - Tailwind / CSS architecture
-- Motion & interaction design using Rive
+- Motion & interaction design using Rive, After Effects
 
 **Backend**
 - Node.js
@@ -93,8 +94,7 @@ This profile reflects live systems, and/or *museum pieces.*
 Code base for Projects that are under [Troytech](https://troytech.org/FAQs) organization's protection policy is not publicly available: 
 - [SOLV (AI-assisted E-commerce)](https://solvtechstore.troytech.org)
 - Birdie-Doodle (News Application) - Download from **Google Play Store**
-- Nairobi Creators Hub 
-- Synth-Wave Gen 
+- Forge - Available on the **Play Store** soon
 
 ---
 
